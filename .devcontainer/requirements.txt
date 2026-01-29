@@ -1,0 +1,13 @@
+# AI Frameworks
+anthropic
+google-generativeai
+openai
+python-dotenv
+
+# Web & Data (For your Flask & Engineering work)
+flask
+pandas
+openpyxl
+
+# CAD Manipulation (The 'Teaching AI to Edit' start)
+ezdxf
